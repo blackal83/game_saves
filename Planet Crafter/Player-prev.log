@@ -12,7 +12,7 @@ Direct3D:
     VRAM:     24564 MB
     Driver:   31.0.21902.5
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.161 seconds
+- Loaded All Assemblies, in  0.128 seconds
 - Finished resetting the current domain, in  0.002 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
@@ -57,44 +57,13 @@ Did you #if UNITY_EDITOR a section of your serialized properties in any of your 
 The referenced script on this Behaviour (Game Object 'Container') is missing!
 The referenced script on this Behaviour (Game Object 'Container') is missing!
 Couldn't create a Convex Mesh from source mesh "Escape_Pod_01" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-UnloadTime: 0.671400 ms
+UnloadTime: 0.732700 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.147800 ms
-Unloading 291 unused Assets to reduce memory usage. Loaded Objects now: 128694.
-Total: 20.141400 ms (FindLiveObjects: 3.090300 ms CreateObjectMapping: 2.438000 ms MarkObjects: 14.438900 ms  DeleteObjects: 0.173700 ms)
+UnloadTime: 13.624400 ms
+Unloading 292 unused Assets to reduce memory usage. Loaded Objects now: 128694.
+Total: 26.472000 ms (FindLiveObjects: 4.129200 ms CreateObjectMapping: 4.622800 ms MarkObjects: 17.485800 ms  DeleteObjects: 0.234000 ms)
 
 Couldn't create a Convex Mesh from source mesh "ObsidianRocks4" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "ObsidianRocks3" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "ObsidianRocks5" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-Couldn't create a Convex Mesh from source mesh "Coral4_G3" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (40)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (38)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (36)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (41)"
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'P_Stargate_01 1') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 756 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
 The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'P_Stargate_01 1') is missing!
 A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 756 bytes)
@@ -113,378 +82,16 @@ The effective box size has been forced positive and is likely to give unexpected
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (41)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_01(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (7)"
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (40)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_01(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (8)"
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (38)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_01(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (10)"
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (36)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_01(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (11)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_01(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (9)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_01(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (6)"
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (30)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (31)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (21)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (34)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (24)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (28)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (33)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (26)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (23)"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Container-Sector-ProceduralWreck-NearGrey/Exterior Wreck/ExteriorShipEntry/Wall_Normal_Simple_09 (32)"
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'P_Spaceship_Falabella_FlyMode') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Ship_F') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Ship_F') is missing!
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (41)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (40)"
@@ -497,758 +104,222 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (41)"
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Interior_block_bigRoom_01') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '_Interior') is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'P_Spaceship_Falabella_FlyMode') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object '3D') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Drill0 (1)') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Drill0 (2)') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Drill0') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-Couldn't create a Convex Mesh from source mesh "SM_BrickLine_09_LOD3" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-Couldn't create a Convex Mesh from source mesh "LavaStoneB1" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneB2" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneB4" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneM1" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneM2" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Object007" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneM3" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneF1" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneF2" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneF3" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "LavaStoneF6" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-The referenced script on this Behaviour (Game Object 'P_Turret_Simple_01') is missing!
-The referenced script on this Behaviour (Game Object 'P_Turret_Simple_01') is missing!
-The referenced script on this Behaviour (Game Object 'P_Radar_Base_01') is missing!
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-Volcano/P_Spaceship_Infinity_Mark_1_StandMode/Body_&_Details/_Props/Command_Center/_No_Lightmap_Needed/P_Antena_04/Antena_04/Cube"
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_02(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (7)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BlackDesert-Under/calage_rotate/SandCache_Volcano/Cube (1)"
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_02(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (8)"
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BlackDesert-Under/calage_rotate/SandCache_Volcano/SandCache_BirthdayEvent/Container/PodUnder/Container/Walls/P_Wall_Window_02/Wall_Lab (1)/Cube"
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_02(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (10)"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_02(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (11)"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_02(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (9)"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "GeneratorDifficulty2_02(Clone)/RandomGeneratedPropsContainer/Outside_Farm(Clone)/Container/3D/Thing_13 (6)"
 The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Drill0 (1)') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Drill0 (2)') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Drill0') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object '3D') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 468 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 348 bytes)
+The referenced script on this Behaviour (Game Object 'P_Stargate_01 1') is missing!
+A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 756 bytes)
 Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
 The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
 The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
 The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.CleanGameObjectHierarchy) on this Behaviour is missing!
-The referenced script (SpaceCraft.ReplaceMaterials) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'PropsFront') is missing!
 The referenced script on this Behaviour (Game Object 'Container') is missing!
 The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Interior_block_bigRoom_01') is missing!
-A scripted object (probably SpaceCraft.ReplaceMaterials?) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-The referenced script on this Behaviour (Game Object '_Interior') is missing!
-The referenced script on this Behaviour (Game Object 'Container') is missing!
-Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 220.316900 ms
-Unloading 43051 unused Assets to reduce memory usage. Loaded Objects now: 119364.
-Total: 134.611400 ms (FindLiveObjects: 4.799400 ms CreateObjectMapping: 2.989000 ms MarkObjects: 26.540200 ms  DeleteObjects: 100.282300 ms)
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (40)"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (38)"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (36)"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneContainer-Sector-BetweenGreyAndCanyons/Sector-ProceduralWreck-NearGrey/Decoys/Ship/Wall_Normal_Simple_09 (41)"
+Crash!!!
+SymInit: Symbol-SearchPath: '.;Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter;Z:/home/blackal/mnt/Data/LinuxSteamLibrary/steamapps/common/The Planet Crafter/Planet Crafter_Data/Plugins\x86_64;Z:/home/blackal/mnt/Data/LinuxSteamLibrary/steamapps/common/The Planet Crafter/Planet Crafter_Data/Plugins;Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter;C:\windows;C:\windows\system32;', symOptions: 534, UserName: 'steamuser'
+OS-Version: 10.0.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter.exe:Planet Crafter.exe (0000000140000000), size: 688128 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter.exe', fileVersion: 2023.2.19.49816
+C:\windows\system32\ntdll.dll:ntdll.dll (00006FFFFFF40000), size: 684032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ntdll.dll', fileVersion: 6.1.7601.24059
+C:\windows\system32\kernel32.dll:kernel32.dll (00006FFFFFEC0000), size: 405504 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\kernel32.dll', fileVersion: 10.0.19043.1466
+C:\windows\system32\kernelbase.dll:kernelbase.dll (00006FFFFFC10000), size: 2732032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\kernelbase.dll'
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\UnityPlayer.dll:UnityPlayer.dll (00006FFFFBCE0000), size: 31805440 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\UnityPlayer.dll', fileVersion: 2023.2.19.49816
+C:\windows\system32\USER32.dll:USER32.dll (00006FFFFF5D0000), size: 1708032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\USER32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\advapi32.dll:advapi32.dll (00006FFFFFBB0000), size: 270336 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\advapi32.dll', fileVersion: 10.0.10240.16384
+C:\windows\system32\msvcrt.dll:msvcrt.dll (00006FFFFFB00000), size: 647168 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.2600.2180
+C:\windows\system32\sechost.dll:sechost.dll (00006FFFFFAC0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\sechost.dll'
+C:\windows\system32\ucrtbase.dll:ucrtbase.dll (00006FFFFF9E0000), size: 839680 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ucrtbase.dll', fileVersion: 10.0.14393.2247
+C:\windows\system32\gdi32.dll:gdi32.dll (00006FFFFF790000), size: 520192 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\gdi32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\win32u.dll:win32u.dll (00006FFFFF580000), size: 212992 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\win32u.dll'
+C:\windows\system32\VERSION.dll:VERSION.dll (00006FFFFDE00000), size: 53248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\VERSION.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\ole32.dll:ole32.dll (00006FFFFF880000), size: 1077248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\combase.dll:combase.dll (00006FFFFF820000), size: 299008 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\combase.dll'
+C:\windows\system32\rpcrt4.dll:rpcrt4.dll (00006FFFFF4F0000), size: 520192 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\rpcrt4.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\coml2.dll:coml2.dll (00006FFFFF4C0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\coml2.dll'
+C:\windows\system32\SHLWAPI.dll:SHLWAPI.dll (00006FFFFEB30000), size: 303104 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SHLWAPI.dll', fileVersion: 6.0.2800.1692
+C:\windows\system32\shcore.dll:shcore.dll (00006FFFFEB00000), size: 90112 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\shcore.dll'
+C:\windows\system32\SETUPAPI.dll:SETUPAPI.dll (00006FFFFE780000), size: 446464 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SETUPAPI.dll'
+C:\windows\system32\SHELL32.dll:SHELL32.dll (00006FFFFEB90000), size: 9535488 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SHELL32.dll', fileVersion: 6.0.2900.6242
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (000000007BEE0000), size: 1052672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 5.1.2600.2082
+C:\windows\system32\WINMM.dll:WINMM.dll (00006FFFFEA20000), size: 790528 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINMM.dll'
+C:\windows\system32\msacm32.dll:msacm32.dll (00006FFFFE9F0000), size: 131072 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msacm32.dll'
+C:\windows\system32\OLEAUT32.dll:OLEAUT32.dll (00006FFFFE840000), size: 1179648 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\OLEAUT32.dll', fileVersion: 6.0.6001.18000
+C:\windows\system32\IMM32.dll:IMM32.dll (00006FFFFE5F0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\IMM32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (00006FFFFE9A0000), size: 249856 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\jsproxy.dll:jsproxy.dll (00006FFFFE970000), size: 98304 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\jsproxy.dll'
+C:\windows\system32\ws2_32.dll:ws2_32.dll (00006FFFFF9A0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ws2_32.dll', fileVersion: 5.1.2600.5512
+C:\windows\system32\bcrypt.dll:bcrypt.dll (00006FFFFE0B0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\bcrypt.dll', fileVersion: 6.0.6000.16386
+C:\windows\system32\HID.DLL:HID.DLL (00006FFFFE820000), size: 65536 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 10.0.0.0
+C:\windows\system32\d3d11.dll:d3d11.dll (00006FFFFB950000), size: 3670016 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\dxgi.dll:dxgi.dll (00006FFFFB6D0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\d3d12.dll:d3d12.dll (00006FFFFB6A0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\d3d12.dll'
+C:\windows\system32\CRYPT32.dll:CRYPT32.dll (00006FFFFE0E0000), size: 860160 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\CRYPT32.dll', fileVersion: 5.131.2600.1243
+C:\windows\system32\dwmapi.dll:dwmapi.dll (00006FFFFE800000), size: 57344 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dwmapi.dll', fileVersion: 6.0.6000.16386
+C:\windows\system32\winex11.drv:winex11.drv (00006FFFFE5C0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winex11.drv', fileVersion: 10.0.0.0
+C:\windows\system32\uxtheme.dll:uxtheme.dll (00006FFFFDD70000), size: 212992 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 10.0.0.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00006FFFFAC20000), size: 10756096 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll'
+C:\windows\system32\iphlpapi.dll:iphlpapi.dll (00006FFFFE4F0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\iphlpapi.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\dnsapi.dll:dnsapi.dll (00006FFFFE4C0000), size: 86016 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dnsapi.dll', fileVersion: 5.2.3790.4318
+C:\windows\system32\nsi.dll:nsi.dll (00006FFFFE4A0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\nsi.dll'
+C:\windows\system32\winevulkan.dll:winevulkan.dll (00006FFFFABE0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winevulkan.dll', fileVersion: 10.0.0.0
+C:\windows\system32\wbem\wbemprox.dll:wbemprox.dll (00006FFFFAB90000), size: 237568 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\wbem\wbemprox.dll'
+C:\windows\system32\winspool.drv:winspool.drv (00006FFFFAB40000), size: 200704 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winspool.drv', fileVersion: 5.1.2600.2180
+C:\windows\system32\compstui.dll:compstui.dll (00006FFFFAB10000), size: 118784 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\compstui.dll'
+C:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll:comctl32.dll (00006FFFFE1D0000), size: 1282048 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll', fileVersion: 5.81.4704.1100
+C:\windows\system32\mmdevapi.dll:mmdevapi.dll (00006FFFFAAD0000), size: 167936 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mmdevapi.dll'
+C:\windows\system32\winepulse.drv:winepulse.drv (00006FFFFAAB0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winepulse.drv'
+C:\windows\system32\windows.gaming.input.dll:windows.gaming.input.dll (00006FFFFAA70000), size: 176128 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\windows.gaming.input.dll'
+C:\windows\system32\dinput8.dll:dinput8.dll (00006FFFFAA20000), size: 258048 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dinput8.dll', fileVersion: 5.1.2600.881
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (000000013B400000), size: 315392 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\steam_api64.dll', fileVersion: 8.2.21.95
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (0000000138000000), size: 24592384 (result: 0), SymType: '-deferred-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 9.7.72.29
+C:\windows\system32\lsteamclient.dll:lsteamclient.dll (00006FFFFA7E0000), size: 2252800 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\lsteamclient.dll'
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (0000000128500000), size: 1654784 (result: 0), SymType: '-deferred-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll', fileVersion: 9.7.72.29
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\GalaxyCSharpGlue.dll:GalaxyCSharpGlue.dll (00006FFFFA5F0000), size: 1961984 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\GalaxyCSharpGlue.dll', fileVersion: 1.148.3.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\Galaxy64.dll:Galaxy64.dll (00006FFFF98D0000), size: 13651968 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\Galaxy64.dll', fileVersion: 1.148.3.0
+C:\windows\system32\WININET.dll:WININET.dll (00006FFFFDE50000), size: 532480 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WININET.dll', fileVersion: 8.0.7601.17601
+C:\windows\system32\mpr.dll:mpr.dll (00006FFFFDE20000), size: 122880 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mpr.dll', fileVersion: 5.0.2195.6611
+C:\windows\system32\MSWSOCK.dll:MSWSOCK.dll (00006FFFF98B0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\MSWSOCK.dll', fileVersion: 4.0.0.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\lib_burst_generated.dll:lib_burst_generated.dll (00006FFFF97E0000), size: 540672 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\lib_burst_generated.dll'
+C:\windows\system32\secur32.dll:secur32.dll (00006FFFF9880000), size: 126976 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\secur32.dll'
+C:\windows\system32\dbghelp.dll:dbghelp.dll (00006FFFFE000000), size: 409600 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
 
-Setting up 16 worker threads for Enlighten.
-Memory Statistics:
-[ALLOC_TEMP_TLS] TLS Allocator
-  StackAllocators : 
-    [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 8936 frames, [8.0 KB-16.0 KB]: 12 frames, [16.0 KB-32.0 KB]: 1340 frames, [32.0 KB-64.0 KB]: 5 frames, [64.0 KB-128.0 KB]: 317 frames, [128.0 KB-256.0 KB]: 263011 frames, [256.0 KB-0.5 MB]: 446305 frames, [0.5 MB-1.0 MB]: 45629 frames, [1.0 MB-2.0 MB]: 144 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 2 frames
-      Initial Block Size 4.0 MB
-      Current Block Size 7.8 MB
-      Peak Allocated Bytes 7.8 MB
-      Overflow Count 53
-    [ALLOC_TEMP_Job.worker 30]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 276.3 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Loading.PreloadManager]
-      Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.4 KB
-      Overflow Count 99190
-    [ALLOC_TEMP_Background Job.worker 3]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 4]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 16]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.1 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 7]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 27]
-      Initial Block Size 256.0 KB
-      Current Block Size 276.0 KB
-      Peak Allocated Bytes 275.8 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 6]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 19]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 281.1 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 12]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 50 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 2]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 10]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 50 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 11]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 50 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 20]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 5]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 279.6 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 15]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 50 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 8]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 23]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 276.8 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 13]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 50 B
-      Overflow Count 0
-    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 31
-      Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
-      Peak Allocated Bytes 56 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 0]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 28]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.2 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 6]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 282.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 8]
-      Initial Block Size 256.0 KB
-      Current Block Size 276.0 KB
-      Peak Allocated Bytes 275.2 KB
-      Overflow Count 0
-    [ALLOC_TEMP_HIDInput]
-      Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
-      Peak Allocated Bytes 10.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 14]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 50 B
-      Overflow Count 0
-    [ALLOC_TEMP_BatchDeleteObjects]
-      Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
-      Peak Allocated Bytes 38 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 26]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 281.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 11]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.6 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 15]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.3 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 9]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 0]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 218.3 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 4]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.1 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 14]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 279.3 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 13]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 276.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 1]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_EnlightenWorker] x 16
-      Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
-      Peak Allocated Bytes 0 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 1]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.1 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 21]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 277.6 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 25]
-      Initial Block Size 256.0 KB
-      Current Block Size 272.0 KB
-      Peak Allocated Bytes 270.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 3]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 279.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 5]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 48 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 12]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 276.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_UnityGfxDeviceWorker]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 22]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 281.1 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 2]
-      Initial Block Size 256.0 KB
-      Current Block Size 428.0 KB
-      Peak Allocated Bytes 301.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 10]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 282.6 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 7]
-      Initial Block Size 256.0 KB
-      Current Block Size 276.0 KB
-      Peak Allocated Bytes 272.1 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 29]
-      Initial Block Size 256.0 KB
-      Current Block Size 260.0 KB
-      Peak Allocated Bytes 259.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 17]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 281.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 9]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 280.7 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 18]
-      Initial Block Size 256.0 KB
-      Current Block Size 284.0 KB
-      Peak Allocated Bytes 282.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 24]
-      Initial Block Size 256.0 KB
-      Current Block Size 280.0 KB
-      Peak Allocated Bytes 276.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Loading.AsyncRead]
-      Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
-      Peak Allocated Bytes 390 B
-      Overflow Count 0
-[ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 36912
-    [ALLOC_BUCKET]
-      Large Block size 4.0 MB
-      Used Block count 1
-      Peak Allocated bytes 4.0 MB
-      Failed Allocations. Bucket layout:
-        16B: 73 Subsections = 74752 buckets. Failed count: 72988695
-        32B: 18 Subsections = 9216 buckets. Failed count: 12519225
-        48B: 24 Subsections = 8192 buckets. Failed count: 127749283
-        64B: 36 Subsections = 9216 buckets. Failed count: 7034548
-        80B: 33 Subsections = 6758 buckets. Failed count: 6106251
-        96B: 27 Subsections = 4608 buckets. Failed count: 21654257
-        112B: 34 Subsections = 4973 buckets. Failed count: 3004596
-        128B: 11 Subsections = 1408 buckets. Failed count: 3810579
-    [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 2335 frames, [64.0 MB-128.0 MB]: 6627 frames, [128.0 MB-256.0 MB]: 16177 frames, [256.0 MB-0.50 GB]: 740562 frames, [0.50 GB-1.00 GB]: 1 frames
-      Requested Block Size 16.0 MB
-      Peak Block count 31
-      Peak Allocated memory 0.50 GB
-      Peak Large allocation bytes 120.0 MB
-    [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [64.0 MB-128.0 MB]: 8944 frames, [128.0 MB-256.0 MB]: 465729 frames, [256.0 MB-0.50 GB]: 291029 frames
-      Requested Block Size 16.0 MB
-      Peak Block count 37
-      Peak Allocated memory 420.3 MB
-      Peak Large allocation bytes 100.6 MB
-[ALLOC_TEMP_JOB_1_FRAME]
-  Initial Block Size 2.0 MB
-  Used Block Count 1
-  Overflow Count (too large) 0
-  Overflow Count (full) 0
-[ALLOC_TEMP_JOB_2_FRAMES]
-  Initial Block Size 2.0 MB
-  Used Block Count 0
-  Overflow Count (too large) 0
-  Overflow Count (full) 0
-[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
-  Initial Block Size 2.0 MB
-  Used Block Count 1
-  Overflow Count (too large) 1
-  Overflow Count (full) 0
-[ALLOC_TEMP_JOB_ASYNC (Background)]
-  Initial Block Size 1.0 MB
-  Used Block Count 1
-  Overflow Count (too large) 18
-  Overflow Count (full) 0
-[ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 126
-    [ALLOC_BUCKET]
-      Large Block size 4.0 MB
-      Used Block count 1
-      Peak Allocated bytes 4.0 MB
-      Failed Allocations. Bucket layout:
-        16B: 73 Subsections = 74752 buckets. Failed count: 72988695
-        32B: 18 Subsections = 9216 buckets. Failed count: 12519225
-        48B: 24 Subsections = 8192 buckets. Failed count: 127749283
-        64B: 36 Subsections = 9216 buckets. Failed count: 7034548
-        80B: 33 Subsections = 6758 buckets. Failed count: 6106251
-        96B: 27 Subsections = 4608 buckets. Failed count: 21654257
-        112B: 34 Subsections = 4973 buckets. Failed count: 3004596
-        128B: 11 Subsections = 1408 buckets. Failed count: 3810579
-    [ALLOC_GFX_MAIN]
-      Peak usage frame count: [128.0 KB-256.0 KB]: 440 frames, [256.0 KB-0.5 MB]: 8506 frames, [0.5 MB-1.0 MB]: 17 frames, [16.0 MB-32.0 MB]: 756644 frames, [32.0 MB-64.0 MB]: 95 frames
-      Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 33.0 MB
-      Peak Large allocation bytes 21.3 MB
-    [ALLOC_GFX_THREAD]
-      Peak usage frame count: [128.0 MB-256.0 MB]: 8946 frames, [256.0 MB-0.50 GB]: 756756 frames
-      Requested Block Size 16.0 MB
-      Peak Block count 25
-      Peak Allocated memory 398.5 MB
-      Peak Large allocation bytes 0 B
-[ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 15177
-    [ALLOC_BUCKET]
-      Large Block size 4.0 MB
-      Used Block count 1
-      Peak Allocated bytes 4.0 MB
-      Failed Allocations. Bucket layout:
-        16B: 73 Subsections = 74752 buckets. Failed count: 72988695
-        32B: 18 Subsections = 9216 buckets. Failed count: 12519225
-        48B: 24 Subsections = 8192 buckets. Failed count: 127749283
-        64B: 36 Subsections = 9216 buckets. Failed count: 7034548
-        80B: 33 Subsections = 6758 buckets. Failed count: 6106251
-        96B: 27 Subsections = 4608 buckets. Failed count: 21654257
-        112B: 34 Subsections = 4973 buckets. Failed count: 3004596
-        128B: 11 Subsections = 1408 buckets. Failed count: 3810579
-    [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 765702 frames
-      Requested Block Size 4.0 MB
-      Peak Block count 14
-      Peak Allocated memory 53.2 MB
-      Peak Large allocation bytes 17.1 MB
-    [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 765701 frames, [0.50 GB-1.00 GB]: 1 frames
-      Requested Block Size 4.0 MB
-      Peak Block count 123
-      Peak Allocated memory 0.56 GB
-      Peak Large allocation bytes 241.0 MB
-[ALLOC_TYPETREE] Dual Thread Allocator
-  Peak main deferred allocation count 0
-    [ALLOC_BUCKET]
-      Large Block size 4.0 MB
-      Used Block count 1
-      Peak Allocated bytes 4.0 MB
-      Failed Allocations. Bucket layout:
-        16B: 73 Subsections = 74752 buckets. Failed count: 72988695
-        32B: 18 Subsections = 9216 buckets. Failed count: 12519225
-        48B: 24 Subsections = 8192 buckets. Failed count: 127749283
-        64B: 36 Subsections = 9216 buckets. Failed count: 7034548
-        80B: 33 Subsections = 6758 buckets. Failed count: 6106251
-        96B: 27 Subsections = 4608 buckets. Failed count: 21654257
-        112B: 34 Subsections = 4973 buckets. Failed count: 3004596
-        128B: 11 Subsections = 1408 buckets. Failed count: 3810579
-    [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [8.0 KB-16.0 KB]: 765702 frames
-      Requested Block Size 2.0 MB
-      Peak Block count 1
-      Peak Allocated memory 10.8 KB
-      Peak Large allocation bytes 0 B
-    [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 765702 frames
-      Requested Block Size 2.0 MB
-      Peak Block count 1
-      Peak Allocated memory 47.3 KB
-      Peak Large allocation bytes 0 B
+========== OUTPUTTING STACK TRACE ==================
+
+SymInit: Symbol-SearchPath: '.;Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter;Z:/home/blackal/mnt/Data/LinuxSteamLibrary/steamapps/common/The Planet Crafter/Planet Crafter_Data/Plugins\x86_64;Z:/home/blackal/mnt/Data/LinuxSteamLibrary/steamapps/common/The Planet Crafter/Planet Crafter_Data/Plugins;Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter;C:\windows;C:\windows\system32;', symOptions: 534, UserName: 'steamuser'
+OS-Version: 10.0.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter.exe:Planet Crafter.exe (0000000140000000), size: 688128 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter.exe', fileVersion: 2023.2.19.49816
+C:\windows\system32\ntdll.dll:ntdll.dll (00006FFFFFF40000), size: 684032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ntdll.dll', fileVersion: 6.1.7601.24059
+C:\windows\system32\kernel32.dll:kernel32.dll (00006FFFFFEC0000), size: 405504 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\kernel32.dll', fileVersion: 10.0.19043.1466
+C:\windows\system32\kernelbase.dll:kernelbase.dll (00006FFFFFC10000), size: 2732032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\kernelbase.dll'
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\UnityPlayer.dll:UnityPlayer.dll (00006FFFFBCE0000), size: 31805440 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\UnityPlayer.dll', fileVersion: 2023.2.19.49816
+C:\windows\system32\USER32.dll:USER32.dll (00006FFFFF5D0000), size: 1708032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\USER32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\advapi32.dll:advapi32.dll (00006FFFFFBB0000), size: 270336 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\advapi32.dll', fileVersion: 10.0.10240.16384
+C:\windows\system32\msvcrt.dll:msvcrt.dll (00006FFFFFB00000), size: 647168 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.2600.2180
+C:\windows\system32\sechost.dll:sechost.dll (00006FFFFFAC0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\sechost.dll'
+C:\windows\system32\ucrtbase.dll:ucrtbase.dll (00006FFFFF9E0000), size: 839680 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ucrtbase.dll', fileVersion: 10.0.14393.2247
+C:\windows\system32\gdi32.dll:gdi32.dll (00006FFFFF790000), size: 520192 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\gdi32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\win32u.dll:win32u.dll (00006FFFFF580000), size: 212992 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\win32u.dll'
+C:\windows\system32\VERSION.dll:VERSION.dll (00006FFFFDE00000), size: 53248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\VERSION.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\ole32.dll:ole32.dll (00006FFFFF880000), size: 1077248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\combase.dll:combase.dll (00006FFFFF820000), size: 299008 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\combase.dll'
+C:\windows\system32\rpcrt4.dll:rpcrt4.dll (00006FFFFF4F0000), size: 520192 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\rpcrt4.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\coml2.dll:coml2.dll (00006FFFFF4C0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\coml2.dll'
+C:\windows\system32\SHLWAPI.dll:SHLWAPI.dll (00006FFFFEB30000), size: 303104 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SHLWAPI.dll', fileVersion: 6.0.2800.1692
+C:\windows\system32\shcore.dll:shcore.dll (00006FFFFEB00000), size: 90112 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\shcore.dll'
+C:\windows\system32\SETUPAPI.dll:SETUPAPI.dll (00006FFFFE780000), size: 446464 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SETUPAPI.dll'
+C:\windows\system32\SHELL32.dll:SHELL32.dll (00006FFFFEB90000), size: 9535488 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SHELL32.dll', fileVersion: 6.0.2900.6242
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (000000007BEE0000), size: 1052672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 5.1.2600.2082
+C:\windows\system32\WINMM.dll:WINMM.dll (00006FFFFEA20000), size: 790528 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINMM.dll'
+C:\windows\system32\msacm32.dll:msacm32.dll (00006FFFFE9F0000), size: 131072 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msacm32.dll'
+C:\windows\system32\OLEAUT32.dll:OLEAUT32.dll (00006FFFFE840000), size: 1179648 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\OLEAUT32.dll', fileVersion: 6.0.6001.18000
+C:\windows\system32\IMM32.dll:IMM32.dll (00006FFFFE5F0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\IMM32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (00006FFFFE9A0000), size: 249856 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\jsproxy.dll:jsproxy.dll (00006FFFFE970000), size: 98304 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\jsproxy.dll'
+C:\windows\system32\ws2_32.dll:ws2_32.dll (00006FFFFF9A0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ws2_32.dll', fileVersion: 5.1.2600.5512
+C:\windows\system32\bcrypt.dll:bcrypt.dll (00006FFFFE0B0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\bcrypt.dll', fileVersion: 6.0.6000.16386
+C:\windows\system32\HID.DLL:HID.DLL (00006FFFFE820000), size: 65536 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 10.0.0.0
+C:\windows\system32\d3d11.dll:d3d11.dll (00006FFFFB950000), size: 3670016 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\dxgi.dll:dxgi.dll (00006FFFFB6D0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\d3d12.dll:d3d12.dll (00006FFFFB6A0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\d3d12.dll'
+C:\windows\system32\CRYPT32.dll:CRYPT32.dll (00006FFFFE0E0000), size: 860160 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\CRYPT32.dll', fileVersion: 5.131.2600.1243
+C:\windows\system32\dwmapi.dll:dwmapi.dll (00006FFFFE800000), size: 57344 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dwmapi.dll', fileVersion: 6.0.6000.16386
+C:\windows\system32\winex11.drv:winex11.drv (00006FFFFE5C0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winex11.drv', fileVersion: 10.0.0.0
+C:\windows\system32\uxtheme.dll:uxtheme.dll (00006FFFFDD70000), size: 212992 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 10.0.0.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00006FFFFAC20000), size: 10756096 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll'
+C:\windows\system32\iphlpapi.dll:iphlpapi.dll (00006FFFFE4F0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\iphlpapi.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\dnsapi.dll:dnsapi.dll (00006FFFFE4C0000), size: 86016 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dnsapi.dll', fileVersion: 5.2.3790.4318
+C:\windows\system32\nsi.dll:nsi.dll (00006FFFFE4A0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\nsi.dll'
+C:\windows\system32\winevulkan.dll:winevulkan.dll (00006FFFFABE0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winevulkan.dll', fileVersion: 10.0.0.0
+C:\windows\system32\wbem\wbemprox.dll:wbemprox.dll (00006FFFFAB90000), size: 237568 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\wbem\wbemprox.dll'
+C:\windows\system32\winspool.drv:winspool.drv (00006FFFFAB40000), size: 200704 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winspool.drv', fileVersion: 5.1.2600.2180
+C:\windows\system32\compstui.dll:compstui.dll (00006FFFFAB10000), size: 118784 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\compstui.dll'
+C:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll:comctl32.dll (00006FFFFE1D0000), size: 1282048 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll', fileVersion: 5.81.4704.1100
+C:\windows\system32\mmdevapi.dll:mmdevapi.dll (00006FFFFAAD0000), size: 167936 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mmdevapi.dll'
+C:\windows\system32\winepulse.drv:winepulse.drv (00006FFFFAAB0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winepulse.drv'
+C:\windows\system32\windows.gaming.input.dll:windows.gaming.input.dll (00006FFFFAA70000), size: 176128 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\windows.gaming.input.dll'
+C:\windows\system32\dinput8.dll:dinput8.dll (00006FFFFAA20000), size: 258048 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dinput8.dll', fileVersion: 5.1.2600.881
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (000000013B400000), size: 315392 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\steam_api64.dll', fileVersion: 8.2.21.95
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (0000000138000000), size: 24592384 (result: 0), SymType: '-deferred-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 9.7.72.29
+C:\windows\system32\lsteamclient.dll:lsteamclient.dll (00006FFFFA7E0000), size: 2252800 (result: 0), SymType: 'COFF', PDB: 'C:\windows\system32\lsteamclient.dll'
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (0000000128500000), size: 1654784 (result: 0), SymType: '-deferred-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll', fileVersion: 9.7.72.29
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\GalaxyCSharpGlue.dll:GalaxyCSharpGlue.dll (00006FFFFA5F0000), size: 1961984 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\GalaxyCSharpGlue.dll', fileVersion: 1.148.3.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\Galaxy64.dll:Galaxy64.dll (00006FFFF98D0000), size: 13651968 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\Galaxy64.dll', fileVersion: 1.148.3.0
+C:\windows\system32\WININET.dll:WININET.dll (00006FFFFDE50000), size: 532480 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WININET.dll', fileVersion: 8.0.7601.17601
+C:\windows\system32\mpr.dll:mpr.dll (00006FFFFDE20000), size: 122880 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mpr.dll', fileVersion: 5.0.2195.6611
+C:\windows\system32\MSWSOCK.dll:MSWSOCK.dll (00006FFFF98B0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\MSWSOCK.dll', fileVersion: 4.0.0.0
+Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\lib_burst_generated.dll:lib_burst_generated.dll (00006FFFF97E0000), size: 540672 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\blackal\mnt\Data\LinuxSteamLibrary\steamapps\common\The Planet Crafter\Planet Crafter_Data\Plugins\x86_64\lib_burst_generated.dll'
+C:\windows\system32\secur32.dll:secur32.dll (00006FFFF9880000), size: 126976 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\secur32.dll'
+C:\windows\system32\dbghelp.dll:dbghelp.dll (00006FFFFE000000), size: 409600 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+  ERROR: SymGetSymFromAddr64, GetLastError: 'No more files.' (Address: 00006FFFFA7F1EE1)
+0x00006FFFFA7F1EE1 (lsteamclient) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFA7F24A3)
+0x00006FFFFA7F24A3 (lsteamclient) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFA868108)
+0x00006FFFFA868108 (lsteamclient) (function-name not available)
+0x000000007C09FE05 (Mono JIT Code) (wrapper managed-to-native) Steamworks.NativeMethods:ISteamNetworkingSockets_ReceiveMessagesOnConnection (intptr,Steamworks.HSteamNetConnection,intptr[],int)
+0x000000007C09FD3B (Mono JIT Code) Steamworks.SteamNetworkingSockets:ReceiveMessagesOnConnection (Steamworks.HSteamNetConnection,intptr[],int)
+0x0000000079E60B9B (Mono JIT Code) Netcode.Transports.SteamNetworkingSocketsTransport:PollEvent (ulong&,System.ArraySegment`1<byte>&,single&)
+0x0000000079DEFC05 (Mono JIT Code) Unity.Netcode.NetworkConnectionManager:PollAndHandleNetworkEvents ()
+0x0000000079DE9773 (Mono JIT Code) Unity.Netcode.NetworkManager:NetworkUpdate (Unity.Netcode.NetworkUpdateStage)
+0x00000000739A9A0F (Mono JIT Code) Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage (Unity.Netcode.NetworkUpdateStage)
+0x00000000739A9FFB (Mono JIT Code) Unity.Netcode.NetworkUpdateLoop/NetworkEarlyUpdate/<>c:<CreateLoopSystem>b__0_0 ()
+0x0000000069B29218 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Invalid handle.' (Address: 00006FFFFAEA69CE)
+0x00006FFFFAEA69CE (mono-2.0-bdwgc) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFADE8494)
+0x00006FFFFADE8494 (mono-2.0-bdwgc) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFADE8580)
+0x00006FFFFADE8580 (mono-2.0-bdwgc) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Invalid handle.' (Address: 00006FFFFC1CCB46)
+0x00006FFFFC1CCB46 (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFC1CCBE8)
+0x00006FFFFC1CCBE8 (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFC1CD31E)
+0x00006FFFFC1CD31E (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFC42908C)
+0x00006FFFFC42908C (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFC42BA7B)
+0x00006FFFFC42BA7B (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFC42EB56)
+0x00006FFFFC42EB56 (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFC42ED9B)
+0x00006FFFFC42ED9B (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Invalid handle.' (Address: 00000001400011F2)
+0x00000001400011F2 (planet crafter) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFFED473D)
+0x00006FFFFFED473D (kernel32) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00006FFFFFF4F3FF)
+0x00006FFFFFF4F3FF (ntdll) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/users/steamuser/Temp/MijuGames/Planet Crafter/Crashes
